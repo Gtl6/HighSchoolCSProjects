@@ -1,0 +1,13 @@
+
+The Client will be a big-bang function that will remember 
+- # of messages sent
+- who sent the messages
+
+
+The Client will be a big-bang function that will remember the single message he or she is currently typing until it send the finishe dmessage to gthe server by the click of the enter key. The screen will dispaly wht the user is typing and the universe the server displays of all known messages. The client will also feature how many characters make a line.
+
+The server on the other hand will thus take the clients' single messages with the clients' appropriate names and display them on the universe for all clients to see.
+
+The Client will be a big-bang function that will remember Nope, that's not how that works.
+
+
